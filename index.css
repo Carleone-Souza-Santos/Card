@@ -19,6 +19,27 @@
     align-items: center;
   }
 
+ header,ul,li{
+  font-size: 18px;
+  cursor: pointer;
+  color: white;
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  width: 50%;
+  z-index: 1000;
+  text-decoration: none;
+  list-style: none;
+  transition: 1s ease;
+}
+li:hover{
+  color: rgb(10, 10, 10);
+  text-shadow: 0.1em 0.1em 0.05em #c21717;
+  transition: 1s ease;
+  
+}
+
+
   main{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;

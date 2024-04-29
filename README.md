@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <li>HTML e CSS</li>
 <li>Git e Github</li>
-<li>Canvas</li>
+<li>Figma</li>
 <img src="assets/photproj.png" alt="img-cards"/>
 
 
